@@ -1,7 +1,8 @@
 {
   "packs": [
     "mrexc.json",
-    "Sotryasenieochka.json"
+    "Sotryasenieochka.json",
+    "DiiaRating.json"
   ],
   "homeserver_url": "https://matrix.envs.net/"
 }
